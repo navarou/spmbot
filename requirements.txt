@@ -1,0 +1,14 @@
+pyjwt
+urllib3
+requests
+psutil
+pycryptodome
+protobuf
+telebot
+protobuf_decoder
+pyTelegramBotAPI==4.16.0
+requests==2.31.0
+flask
+pycryptodome
+requests
+Flask-Cors
